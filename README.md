@@ -13,6 +13,7 @@ Formula: En = (x+n) mod(26)
 Key = 3 left shift
 
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 ## Decryption
@@ -22,6 +23,7 @@ Formula: Dec = (x-n) mod(26)
 Key = 3 Right shift
 
 Encrypted text: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+
 Decryption:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 
